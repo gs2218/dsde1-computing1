@@ -1,1 +1,3 @@
-trail commonnn
+a = input()
+def inc(a)
+    print(a)
